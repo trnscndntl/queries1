@@ -1,0 +1,2 @@
+SELECT lecturer_initials
+FROM lecturer

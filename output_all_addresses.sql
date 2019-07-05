@@ -1,0 +1,2 @@
+SELECT street
+FROM address

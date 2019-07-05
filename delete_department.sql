@@ -1,0 +1,2 @@
+DELETE FROM department
+WHERE department_name='Department_of_Ukrainian_language_and_Literature'

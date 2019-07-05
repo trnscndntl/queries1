@@ -1,0 +1,2 @@
+INSERT INTO lecturer(id_lecturer, lecturer_initials, birth_date, degree, department)
+VALUES (6, 'Skrypka Ivan Volodymyrovych', '1983-07-13', 'assistant', 'Department_of_Ukrainian_Language_and_Literature') 
